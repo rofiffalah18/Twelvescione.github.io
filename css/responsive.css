@@ -238,6 +238,11 @@
     transition: background 0.3s;
   }
 
+  .contact_section .undangan {
+    width: 250;
+    height: 300px;
+  }
+  
   .gmap_canvas {
     overflow: hidden;
     background: none;
