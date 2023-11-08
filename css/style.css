@@ -789,12 +789,16 @@ h6 {
 }
 
 .contact_section .undangan {
-  width: 475px;
+  width: 500px;
   height: 1100px;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   margin: auto;
+}
+
+.contact_section undangan img{
+width: 450px;
 }
 .contact_section h2 {
   font-size: 50px;
