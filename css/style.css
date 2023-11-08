@@ -788,6 +788,14 @@ h6 {
   position: relative;
 }
 
+.contact_section .undangan {
+  width: 550;
+  height: 1100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+}
 .contact_section h2 {
   font-size: 50px;
   text-align: center;
