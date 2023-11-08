@@ -238,9 +238,14 @@
     transition: background 0.3s;
   }
 
-  .contact_section .undangan img {
-    width: 200px;
+  .contact_section .undangan img{
+    width: 170px;
     height: 300px;
+  }
+
+  .contact_section .map_container {
+    margin: auto;
+    padding-bottom: 10px;
   }
   
   .gmap_canvas {
