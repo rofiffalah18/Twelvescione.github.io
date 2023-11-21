@@ -1,0 +1,66 @@
+/* contact srction start */
+
+.contact_srction {
+    width: 100%;
+    float: left;
+    padding-bottom: 120px;
+    background-color: #fff;
+}
+
+.contact_taital {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #131313;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.contact_srction_2 {
+    width: 100%;
+    float: left;
+}
+
+.mail_main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.mail_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #424343;
+    border: 1px solid #8e8e8e;
+    background-color: #ffff;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.massage-bt {
+    color: #424343;
+    width: 100%;
+    font-size: 18px;
+    background-color: #ffff;
+    padding: 15px;
+    border: 1px solid #8e8e8e;
+    height: 60px;
+    margin-top: 20px;
+}
+
+.send_bt {
+    width: 170px;
+    margin: 0 auto;
+    text-align: center;
+    float: left;
+    background-color: #fb8a05;
+    color: #fefeff;
+    padding: 10px 0px;
+    font-size: 16px;
+    margin-top: 40px;
+    border-radius: 40px;
+}
+
+
+
+/* contact srction end */
